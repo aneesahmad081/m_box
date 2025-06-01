@@ -124,7 +124,7 @@ class LoginScreen extends StatelessWidget {
               width: 300,
 
               decoration: BoxDecoration(
-                color: Colors.amber,
+                color: Colors.redAccent,
                 borderRadius: BorderRadius.circular(10),
               ),
               child: Center(
